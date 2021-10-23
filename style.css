@@ -1,0 +1,12 @@
+body {
+  background-color: plum;
+  color: purple;
+  font-size: 25px;
+}
+div {
+  background-color: plum;
+  color: purple;
+  border-color: purple;
+  border-width: 5px;
+  border-style: dashed;
+}
